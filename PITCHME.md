@@ -4,7 +4,11 @@
 
 ---
 
-[Calculus](./week1/calculus.ipynb)
+[Calculus](http://localhost:8888/notebooks/week1/Calculus.ipynb)
+
+---
+
+[Matrix Math and Numpy](http://localhost:8888/notebooks/week1/Matrix_Math_and_Numpy.ipynb)
 
 ---
 

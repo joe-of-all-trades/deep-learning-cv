@@ -36,7 +36,7 @@ Git is a distributed version control system.
 [Download Git](https://git-scm.com/downloads)  
 To download course material, type this in git bash
     
-    C:\>git clone ...... 
+    C:\>git clone https://github.com/ChaoyuanYeh/deep-learning-cv.git
 
 ---
 
