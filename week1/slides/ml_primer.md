@@ -1,8 +1,8 @@
 ### Primers in machine learning
 
--Perceptron ( linear classification )
--Linear regression
--Logistic regression ( outputs probability )
+-Perceptron ( linear classification )    
+-Linear regression    
+-Logistic regression ( outputs probability )    
 
 ---
 
@@ -14,6 +14,10 @@
 
 ---
 
-[Perceptron theory](http://localhost:8888/notebooks/week1/Perceptron_Learning_Algorithm_Theory.ipynb)
-[Perceptron demo](http://localhost:8888/notebooks/week1/Perceptron_Learning_Algorithm_Demo.ipynb)
-[Perceptron and logical operators quiz](http://localhost:8888/notebooks/week1/Perceptron_and_Logical_Operator_Quiz.ipynb)
+[Perceptron theory](http://localhost:8888/notebooks/week1/Perceptron_Learning_Algorithm_Theory.ipynb)    
+[Perceptron demo](http://localhost:8888/notebooks/week1/Perceptron_Learning_Algorithm_Demo.ipynb)    
+[Perceptron and logical operators quiz](http://localhost:8888/notebooks/week1/Perceptron_and_Logical_Operator_Quiz.ipynb)    
+
+---
+
+[Logistic regression](http://localhost:8888/notebooks/week1/Logistic_Regression.ipynb)    
