@@ -4,12 +4,13 @@ Syllabus for the course is as follows:
 
 #### First week: Basics of deep neural network  
 1.	Introduction to programming tools
-2.	Perceptron
-3.	Matrix arithmetic for neural networks
-4.	Calculus for neural networks
-5.  Machine Learning Basics
-6.	Forward propagation, backward propagation
-7.	Fully connected neural network
+2.	Matrix math and Numpy
+3.	Calculus
+4.	Image processing and OpenCV
+5.	Perceptron
+6.	Machine Learning Basics
+7.	Forward propagation, backward propagation
+8.	Fully connected neural network
 
 #### Second week: Convolutional neural network
 1.	Convolutional neural network : general concept
