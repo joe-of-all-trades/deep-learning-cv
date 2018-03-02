@@ -82,7 +82,5 @@ The Jupyter notebook combines two components:
 
 ---
 
-### OpenCV
-
 
 
