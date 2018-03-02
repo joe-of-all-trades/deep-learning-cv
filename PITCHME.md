@@ -12,12 +12,10 @@
 
 ---
 
+---?include=week1/slides/computer_vision.md
+
 ---?include=week1/slides/machine_learning_basic.md
 
----
-
 ---?include=week1/slides/forward_backward_pro.md
-
----
 
 ---?include=week1/slides/fully_connected_neural_network.md

@@ -28,3 +28,6 @@ A science discipline concerned with artificial system that extracts information 
 ### Deep learning approach to image classification
 
 1. Let deep neural network learn the features from vast amount of labeled data
+---
+### Open source computer vision library : 
+[OpenCV](http://localhost:8888/notebooks/week1/Matrix_Math_and_Numpy.ipynb)
