@@ -80,7 +80,5 @@ The Jupyter notebook combines two components:
 
 -Notebook documents: a representation of all content visible in the web application
 
-[Let's try Jupyter !](http://localhost:8888)
-
-
+---
 
