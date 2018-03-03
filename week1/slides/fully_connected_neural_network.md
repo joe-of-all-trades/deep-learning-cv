@@ -10,7 +10,11 @@
 
 ---
 
-### Non-Linear Function
+<img src="https://drive.google.com/uc?id=1RkBKRUoZO_wgwvp7c1lRVPVu1bOS0NAt" width="400">
+
+---
+
+### Activation Function
 
 - Sigmoid
 - Tanh

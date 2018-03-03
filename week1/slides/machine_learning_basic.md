@@ -47,6 +47,11 @@
 <img src="https://drive.google.com/uc?id=1zMCvs6Y3W2B7EE1DFoDr1e3F31MqI_fH" width="400">
 
 ---
+
+### Gradient Descent Algorithm
+<img src="https://drive.google.com/uc?id=1MvkqkWqYNNezi6AU4EgfNkeyp968yJKg" width="400">
+
+---
 ### Machine Learning Cycle
 <img src="https://drive.google.com/uc?id=1_pnCIqXGZJR_gWInP6KRNGXph3QIN8ho" width="400">
 
