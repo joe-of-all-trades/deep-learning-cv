@@ -35,4 +35,11 @@ Syllabus for the course is as follows:
 5.	Convolutional neural network for object detection and image segmentation
 
 
+#### Online resources 
 
+[Stanford CS231n : Convolutional Neural Network for Visual Recognition by Fei-Fei Li](http://cs231n.stanford.edu/)
+[Caltech : Learning from Data by Yaser Abu-Mustafa](https://work.caltech.edu/telecourse.html)
+[Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org/)
+[Introduction to Machine Learning by Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+[Deep Learning by Udacity](https://www.udacity.com/course/deep-learning--ud730)
+[Learn with Google AI](https://ai.google/education/#?modal_active=none)
