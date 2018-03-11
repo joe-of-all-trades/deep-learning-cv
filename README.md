@@ -18,7 +18,7 @@ Slide for the first week is prepared using Gitpitch. [View slide here](https://g
 #### Second week: Convolutional neural network
 1.	Convolutional neural network : general concept
 2.	Loss function
-3.	Optimizer
+3.	[Optimizer](https://docs.google.com/presentation/d/19BQ4ty85KedzJwVNHjGso-qqEGT8wNtGlxuj6ZVPnNM/edit?usp=sharing)
 4.	Introduction to deep learning frameworks
 5.	Convolutional neural network for image classification
 
