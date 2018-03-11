@@ -3,6 +3,9 @@ Welcome ! This repo contains material for the 'Application of deep leanrning in 
 Syllabus for the course is as follows:
 
 #### First week: Basics of deep neural network  
+
+Slide for the first week is prepared using Gitpitch. [View slide here](https://gitpitch.com/ChaoyuanYeh/deep-learning-cv)      
+
 1.	Introduction to programming tools
 2.	Matrix math and Numpy
 3.	Calculus
