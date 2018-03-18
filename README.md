@@ -1,5 +1,7 @@
 Welcome ! This repo contains material for the 'Application of deep leanrning in Computer Vision' course held in National Cheng-Kung University during 3/3 - 4/28, 2018. 
 
+Thanks to Google's generosity, you can practice making deep neural net on Google Colaboratory using free GPU resource provided by Google. An instruction on how to do this can be found [here](./week2/Project).
+
 Syllabus for the course is as follows:
 
 #### First week: Basics of deep neural network  
