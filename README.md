@@ -27,9 +27,9 @@ Slide for the first week is prepared using Gitpitch. [View slide here](https://g
 #### Third week: Strategies and techniques for training convolutional neural networks
 1.	Visualization of training progress
 2.	Hyperparameter tuning
-3.	Batch normalization
-4.	Regularization
-5.	Dropout
+3.	[Batch normalization](https://docs.google.com/presentation/d/1xLkMV-zj1n0i8hp8p_9hyZt3GtvijnxEWh6fYazlYqg/edit?usp=sharing)
+4.	[Regularization](https://docs.google.com/presentation/d/1lTLJYLp8N3pshnMYSBrwPkQZciJrrE_q6sI0nt-knCA/edit?usp=sharing)
+5.	[Dropout](https://docs.google.com/presentation/d/1zBlUY5ccSvx43Ro520sU1d9hbjbp6R60jeqXbD-O3TY/edit?usp=sharing)
 6.	Data augmentation
 
 #### Fourth week: Classical convolutional neural network architecture and other applications
