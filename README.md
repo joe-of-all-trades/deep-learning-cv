@@ -33,11 +33,11 @@ Slide for the first week is prepared using Gitpitch. [View slide here](https://g
 6.	Data augmentation
 
 #### Fourth week: Classical convolutional neural network architecture and other applications
-1.	AlexNet
-2.	VGG Net
-3.	Introduction to Keras
-4.	ResNet
-5.	Convolutional neural network for object detection and image segmentation
+1.	Introduction to Keras
+2.	CNN case studies
+3.	CNN for object detection and image segmentation
+4.	
+5.	
 
 
 #### Online resources 
