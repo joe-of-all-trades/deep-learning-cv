@@ -1,5 +1,7 @@
 Welcome ! This repo contains material for the 'Application of deep leanrning in Computer Vision' course held in National Cheng-Kung University during 3/3 - 4/28, 2018. 
 
+Thanks to Google's generosity, you can practice making deep neural net on Google Colaboratory using free GPU resource provided by Google. An instruction on how to do this can be found [HERE](./week2/Project/).
+
 Syllabus for the course is as follows:
 
 #### First week: Basics of deep neural network  
@@ -25,17 +27,17 @@ Slide for the first week is prepared using Gitpitch. [View slide here](https://g
 #### Third week: Strategies and techniques for training convolutional neural networks
 1.	Visualization of training progress
 2.	Hyperparameter tuning
-3.	Batch normalization
-4.	Regularization
-5.	Dropout
+3.	[Batch normalization](https://docs.google.com/presentation/d/1xLkMV-zj1n0i8hp8p_9hyZt3GtvijnxEWh6fYazlYqg/edit?usp=sharing)
+4.	[Regularization](https://docs.google.com/presentation/d/1lTLJYLp8N3pshnMYSBrwPkQZciJrrE_q6sI0nt-knCA/edit?usp=sharing)
+5.	[Dropout](https://docs.google.com/presentation/d/1zBlUY5ccSvx43Ro520sU1d9hbjbp6R60jeqXbD-O3TY/edit?usp=sharing)
 6.	Data augmentation
 
 #### Fourth week: Classical convolutional neural network architecture and other applications
-1.	AlexNet
-2.	VGG Net
-3.	Introduction to Keras
-4.	ResNet
-5.	Convolutional neural network for object detection and image segmentation
+1.	Introduction to Keras
+2.	CNN case studies
+3.	CNN for object detection and image segmentation
+4.	
+5.	
 
 
 #### Online resources 
