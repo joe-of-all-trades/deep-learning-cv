@@ -36,8 +36,9 @@ Slide for the first week is prepared using Gitpitch. [View slide here](https://g
 1.	Introduction to Keras
 2.	CNN case studies
 3.	CNN for object detection and image segmentation
-4.	
-5.	
+4.  Introduction of RNN	
+5.	Sequence to Sequence Model
+6.  RNN for Computer Vision
 
 
 #### Online resources 
